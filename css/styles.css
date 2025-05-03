@@ -1,0 +1,229 @@
+body {
+    font-family: 'Inter', sans-serif ;
+    background: #0e1823;
+}
+ul {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+}
+h1 {
+   
+font-weight: 500;
+font-size: 80px;
+
+/* line-height: 80px; */ 
+line-height: 1;
+letter-spacing: -0.02em;
+text-align: center;
+color:  #fbfbfb;
+}
+h2 {
+  
+font-weight: 500;
+font-size: 48px;
+
+/* line-height: 48px; */ 
+line-height: 1;
+letter-spacing: -0.02em;
+color: #fbfbfb;   
+}
+h3 {
+   font-weight: 500;
+font-size: 32px;
+
+/* line-height: 32px; */ 
+line-height: 1;
+letter-spacing: -0.05em;
+color: #fbfbfb;
+
+}
+h4 {
+  
+font-weight: 500;
+font-size: 16px;
+
+/* line-height: 19px; */ 
+line-height: 1.2;
+letter-spacing: -0.04em;
+text-transform: uppercase;
+color: #1b414b;
+}
+.hero-txt {
+ 
+font-weight: 300;
+font-size: 16px;
+
+/* line-height: 22px; */ 
+line-height: 1.4;
+text-align: center;
+color: rgba(251, 251, 251, 0.7)
+}
+.yachtjetlogo {
+ 
+font-weight: 500;
+font-size: 20px;
+letter-spacing: -0.03em;
+color: #1b414b;
+
+}
+.header-link {
+    border-radius: 8px;
+    width: 91px;
+    height: 40px;
+    background: rgba(27, 65, 75, 0.5);
+  
+font-weight: 400;
+font-size: 9px;
+}
+.header-link:hover {
+    background: #1b414b; 
+}
+.rental-btn {
+    display: flex;
+align-items: flex-start;
+justify-content: flex-start;
+flex-direction: row;
+gap: 10px;
+border-radius: 15px;
+padding: 16px 40px;
+width: 179px;
+height: 52px;
+background: #1b414b;
+
+
+
+}
+.list-title {
+   
+    font-weight: 400;
+    font-size: 14px;
+    
+    /* line-height: 17px; */ 
+    line-height: 1.18;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #040306;  
+}
+.yacthfleet {
+    border-radius: 24px;
+    width: 1340px;
+    height: 675px;
+    background: #fbfbfb; 
+}
+.yafleet-title {
+    color: #1b414b;
+}
+.fleet-pretitle {
+font-weight: 400;
+font-size: 23px;
+line-height: 1;
+letter-spacing: -0.02em;
+color: #1b414b;
+}
+.fleet-text {
+    font-weight: 400;
+font-size: 13px;
+
+/* line-height: 15px; */ 
+line-height: 1.15;
+letter-spacing: -0.02em;
+color: #040306;
+opacity: 0.4;
+}
+.chooselist-item {
+    width: 392px;
+    height: 508px;
+    background: #fbfbfb; 
+}
+.luxury {
+    font-weight: 400;
+    font-size: 13px;
+     
+    line-height: 1.18;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #040306;
+    opacity: 0.4;
+}
+.forwhat-list {
+    border-radius: 24px;
+width: 768px;
+height: 424px;
+background: #1b414b;
+}
+.forwhat-item {
+    font-weight: 400;
+    font-size: 13px;
+        line-height: 1.15;
+    letter-spacing: -0.02em;
+    color: #fbfbfb;
+    opacity: 0.8;
+}
+.rev-par {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.28571;
+    letter-spacing: -0.02em;
+    text-align: center;
+    color: #fbfbfb;
+    opacity: 0.4;
+}
+.rev-item {
+    border-radius: 24px;
+padding: 32px 36px;
+width: 392px;
+height: 282px;
+background: #fbfbfb;
+}
+.rev-name {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 1.1;
+    letter-spacing: -0.02em;
+    text-align: center;
+    color: #040306; 
+}
+.rev-text {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.4;
+letter-spacing: -0.02em;
+text-align: center;
+color: rgba(4, 3, 6, 0.4);
+
+}
+.footer-txt {
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 32px;
+    
+    /* line-height: 32px; */ 
+    line-height: 1;
+    letter-spacing: -0.02em;
+    text-align: center;
+    color: #fbfbfb;   
+}
+.footer-cr {
+    display: flex;
+align-items: flex-start;
+justify-content: flex-start;
+flex-direction: row;
+gap: 32px;
+width: 298px;
+height: 17px;
+font-weight: 400;
+font-size: 14px;
+line-height: 1.18;
+letter-spacing: 0.03em;
+text-align: center;
+color: rgba(251, 251, 251, 0.4);
+}
+.footer {
+    border-radius: 24px 24px 0 0;
+    width: 1390px;
+    height: 418px;
+    background: #1b414b;   
+}
+
